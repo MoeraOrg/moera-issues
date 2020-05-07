@@ -1,4 +1,4 @@
-=Moera Issue Tracker
+# Moera Issue Tracker
 
 This GitHub project contains the issue tracker of all Moera projects. Since
 most of Moera features and bugs involve several Moera components, we decided
